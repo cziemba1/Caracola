@@ -122,10 +122,10 @@ body {
 
 .tagline {
   position: absolute;
-  margin-top: 260px;
+  margin-top: 150px;
   margin-left: 80px;
   font-family: "Playfair Display";
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -234,7 +234,7 @@ img {
 
 .prod-sec p {
   font-family: "Playfair Display";
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 300;
   margin-top: 60px;
   margin-bottom: 70px;
@@ -469,6 +469,7 @@ input {
   font-family: "Larsseit";
   font-weight: 300;
   color: rgba(0, 0, 0, 0.6);
+  font-size: 15px;
 }
 
 #blockquote {
