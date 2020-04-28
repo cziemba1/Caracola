@@ -1,6 +1,6 @@
 # Sitio E-commerce
 
-Caracola Enamorada es un sitio web e-commerce de joyeria.
+Caracola es un sitio web e-commerce de joyeria.
 
 ## Tecnologias
 
