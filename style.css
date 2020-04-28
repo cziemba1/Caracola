@@ -134,15 +134,15 @@ body {
 a {
   color: grey !important;
   font-family: "Larsseit";
-  font-size: 20px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
 .sub-title {
   position: absolute;
-  bottom: 350px;
-  margin-left: 180px;
+  margin-top: 300px;
+  margin-left: 80px;
   font-size: 30px;
   font-weight: 300;
 }
@@ -240,6 +240,11 @@ img {
   margin-bottom: 70px;
 }
 
+#caracola {
+  width: 80%;
+  margin: 0 5%;
+}
+
 @media (max-width: 900px) {
   .prod-sec {
     padding-left: 30px;
@@ -278,12 +283,13 @@ img {
 
 .footer .media {
   top: 20px !important;
+  font-size: 28px;
 }
 
 footer p {
   text-align: center;
   font-family: "Larsseit" !important;
-  font-size: 14px !important;
+  font-size: 23px !important;
 }
 
 /* SHOP Page */
